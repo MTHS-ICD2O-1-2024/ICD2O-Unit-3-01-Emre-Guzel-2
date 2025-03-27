@@ -1,5 +1,5 @@
 /* Created by: Emre Guzel
-* Created on: March 20 2025
+* Created on: March 27 2025
 * This file contains the CSS for index.html
 */
 
@@ -47,12 +47,26 @@ body {
   margin-bottom: 1rem;
   margin-top: .5rem;
 }
-.base-a{
+
+.base-a {
   margin: 0;
-  
+
 }
-#base-a{
+
+#base-a {
   display: flex;
-    align-items: center;
-    gap: 10px;
+  align-items: center;
+  gap: 10px;
+}
+
+#base-b {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#height {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
